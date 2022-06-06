@@ -1,0 +1,23 @@
+{
+	"plugin_info": {
+		"name": "Plugins Manager",
+		"code": "plugins-manager",
+		"title": "JoMiz System Plugin Manager",
+		"version": "1.0.0",
+		"root_page": "main",
+		"root_page_template": "page-dashboard.php",
+		"plugin_path": "jomiz-plugins-manager/init.php",
+		"plugin_directory": "jomiz-plugins-manager",
+		"language_domain": "jomizsys",
+		"icon": "fa fa-money",
+		"dependencies": [
+			{
+				"plugin_path": "pods/init.php",
+				"url": "http://www.pods.io",
+				"title": "pods.io"
+			}
+		]
+	},
+	"pages": [],
+	"priviliges": []
+}

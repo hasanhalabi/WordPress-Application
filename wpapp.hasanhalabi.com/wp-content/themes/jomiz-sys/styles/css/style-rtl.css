@@ -1,0 +1,173 @@
+@import 'droidarabickufi.css';
+body.rtls {
+    font-family: 'Droid Arabic Kufi', "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 11px;
+}
+
+.ltr-inline-content {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    direction: ltr;
+    display: inline-block;
+}
+
+.ltr-block-content {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    direction: ltr;
+    display: block;
+}
+
+body.rtls span.jomiz-legend-color-span {
+    display: inline-block;
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-bottom: 8px;
+}
+
+body.rtls .selectize-control.rtl.single .selectize-input:after {
+    left: 5px;
+    right: auto !important;
+}
+
+body.rtls .select2-container-multi .select2-choices li {
+    float: right;
+}
+
+body.rtls .selectize-dropdown,
+body.rtls .selectize-input,
+body.rtls .selectize-input input {
+    font-size: 11px;
+}
+
+body.rtls .jomiz-rpt-wrapper {
+    font-size: 11px;
+}
+
+body.rtls .jomiz-rpt-wrapper h3 {
+    font-size: 13px;
+}
+
+body.rtls:not(.fixed-sidebar):not(.canvas-menu).mini-navbar .nav-second-level {
+    width: 200px;
+}
+
+body.rtls .nav-second-level li a {
+    font-size: 11px;
+}
+
+body.rtls .dropdown-submenu>.dropdown-menu {
+    left: 100%;
+    right: auto;
+}
+body.rtls .jumbotron.jomiz-jumbotron-sm .input-group input {
+    text-align: right !important;
+}
+
+
+/*Fix Is*/
+
+body.rtls .title-action {
+    text-align: left;
+}
+
+body.rtls td.action-cell {
+    text-align: left;
+}
+
+body.rtls .onoffswitch-inner:before {
+    content: "\0022";
+}
+
+body.rtls .form-operations {
+    text-align: left;
+}
+
+body.rtls .input-group-addon:first-child {
+    border-right: 1px solid #E5E6E7;
+}
+
+body.rtls .datepicker {
+    /*	direction: rtl;*/
+}
+
+body.rtls .datepicker-dropdown.dropdown-menu {
+    right: auto;
+}
+
+body.rtls .metismenu .arrow {
+    float: left;
+}
+
+.mini-navbar .nav-second-level {
+    right: 70px;
+    left: auto;
+}
+
+body.rtls .mini-navbar li.active .nav-second-level {
+    right: 65px;
+    left: auto;
+}
+
+body.rtls .chosen-container-multi .chosen-choices li.search-choice {
+    padding: 3px 5px 3px 20px !important;
+}
+
+body.rtls #toast-container > .toast-success,
+body.rtls #toast-container > .toast-error,
+body.rtls #toast-container > .toast-warning,
+body.rtls #toast-container > .toast-info {
+    background-image: none !important;
+}
+
+body.rtls .select2-results ul.select2-result-sub {
+    padding-right: 20px;
+}
+
+body.rtls .select2-result-single {
+    padding-right: 0px;
+}
+
+body.rtls .list-unstyled .list-unstyled {
+    margin-right: 30px !important;
+    margin-left: 0px !important;
+}
+
+body.rtls .jomiz-break-line {
+    clear: right;
+}
+
+body.rtls .select2-container .select2-choice .select2-arrow {
+    right: auto;
+    left: 0;
+    border-radius: 4px 4px 0 0;
+    border-left: none;
+}
+body.rtls .irs {
+    direction: ltr !important;
+}
+
+
+/*Temporary*/
+
+.table-responsive:after {}
+
+.table-responsive::-webkit-scrollbar {
+    width: 0 !important
+}
+
+.table-responsive {
+    -ms-overflow-style: none;
+}
+
+.table-responsive {
+    overflow: -moz-scrollbars-none;
+}
+
+.jomiz-form-error-message {
+    right: auto;
+    left: 10px;
+}
+
+.sweet-alert {
+    font-family: 'Droid Arabic Kufi', "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}

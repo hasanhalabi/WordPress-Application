@@ -1,0 +1,281 @@
+[20-Jun-2021 12:12:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[20-Jun-2021 12:12:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[20-Jun-2021 12:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[20-Jun-2021 12:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[21-Jun-2021 22:48:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[21-Jun-2021 22:48:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[21-Jun-2021 22:48:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[21-Jun-2021 22:48:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[27-Jun-2021 13:53:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[27-Jun-2021 13:53:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[27-Jun-2021 13:54:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[27-Jun-2021 13:54:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[08-Jul-2021 10:12:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[08-Jul-2021 10:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[08-Jul-2021 10:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[09-Jul-2021 23:21:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[09-Jul-2021 23:21:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[09-Jul-2021 23:21:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[09-Jul-2021 23:21:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[10-Jul-2021 11:01:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[10-Jul-2021 11:02:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[10-Jul-2021 11:02:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[10-Jul-2021 15:26:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[10-Jul-2021 15:26:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[10-Jul-2021 15:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[10-Jul-2021 15:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[11-Jul-2021 10:06:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[11-Jul-2021 10:06:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[11-Jul-2021 10:06:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[11-Jul-2021 10:06:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[17-Jul-2021 17:41:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[17-Jul-2021 17:41:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[17-Jul-2021 17:41:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[17-Jul-2021 17:41:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[01-Aug-2021 18:45:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[01-Aug-2021 18:45:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[01-Aug-2021 18:45:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[01-Aug-2021 18:45:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[01-Aug-2021 19:04:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[01-Aug-2021 19:04:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home4/levantcos/public_html/dryclean/wp-includes/class-wp-hook.php on line 292
+[01-Aug-2021 19:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 167
+[01-Aug-2021 19:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/levantcos/public_html/dryclean/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 146
+[25-Oct-2021 11:52:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php on line 303
+[25-Oct-2021 11:52:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php on line 303
+[25-Oct-2021 12:26:15 UTC] [Loco.warning] "Falling back to source extraction because jomiz-plugins-lawyersys.pot is missing" in src/ajax/SyncController.php:55
+[25-Oct-2021 12:28:51 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[25-Oct-2021 12:29:26 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[25-Oct-2021 12:31:48 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:52:13 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:53:58 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:54:45 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:57:03 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:57:35 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 10:59:57 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 11:09:01 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[26-Oct-2021 11:58:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php on line 303
+[26-Oct-2021 12:01:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php on line 303
+[28-Oct-2021 13:47:43 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[28-Oct-2021 14:15:15 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[28-Oct-2021 14:24:25 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[02-Nov-2021 12:56:51 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[02-Nov-2021 12:59:03 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[06-Nov-2021 14:56:57 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[06-Nov-2021 15:01:21 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[06-Nov-2021 15:05:08 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[08-Nov-2021 15:14:35 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Nov-2021 14:11:42 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Nov-2021 14:14:58 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Nov-2021 15:12:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/classes/lawyersys.leaves.class.php on line 105
+[11-Nov-2021 13:56:15 UTC] PHP Fatal error:  Cannot redeclare lawyersys\delete_all_between() (previously declared in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/classes/lawyersys.leaves.class.php:249) in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/classes/lawyersys.leavesapprovals.class.php on line 246
+[24-Nov-2021 12:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[24-Nov-2021 12:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[24-Nov-2021 12:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[24-Nov-2021 12:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[24-Nov-2021 12:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[24-Nov-2021 12:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method jomiz_attachments::deleteAttachments() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php:161
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(303): dropzonejs_delete('')
+#1 /home1/nsairssystem/public_html/system/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home1/nsairssystem/public_html/system/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(187): do_action('wp_ajax_delete_...')
+#4 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-attachments/dropzonejs-wordpress.php on line 161
+[16-Dec-2021 11:52:46 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[16-Dec-2021 13:37:15 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[18-Dec-2021 10:14:46 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[20-Dec-2021 10:02:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:03:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[20-Dec-2021 10:03:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:04:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:04:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[20-Dec-2021 10:06:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:06:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:06:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[20-Dec-2021 10:07:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:08:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:08:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[20-Dec-2021 10:16:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:17:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[20-Dec-2021 10:17:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[10-Jan-2022 13:32:19 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[10-Jan-2022 13:56:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 13:57:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 13:59:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:01:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:03:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:05:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:07:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:09:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:11:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[10-Jan-2022 14:12:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:12:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:12:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[10-Jan-2022 14:13:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:13:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:13:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[10-Jan-2022 14:15:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:16:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:17:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:17:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:17:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 192
+[10-Jan-2022 14:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_to_file_2022() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/init.php(63): jomiz_plugin->__construct(Object(stdClass))
+#1 /home1/nsairssystem/public_html/system/wp-settings.php(409): include_once('/home1/nsairssy...')
+#2 /home1/nsairssystem/public_html/system/wp-config.php(114): require_once('/home1/nsairssy...')
+#3 /home1/nsairssystem/public_html/system/wp-load.php(50): require_once('/home1/nsairssy...')
+#4 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(22): require_once('/home1/nsairssy...')
+#5 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 14
+[10-Jan-2022 14:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_to_file_2022() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/init.php(63): jomiz_plugin->__construct(Object(stdClass))
+#1 /home1/nsairssystem/public_html/system/wp-settings.php(409): include_once('/home1/nsairssy...')
+#2 /home1/nsairssystem/public_html/system/wp-config.php(114): require_once('/home1/nsairssy...')
+#3 /home1/nsairssystem/public_html/system/wp-load.php(50): require_once('/home1/nsairssy...')
+#4 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(22): require_once('/home1/nsairssy...')
+#5 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 14
+[10-Jan-2022 14:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_to_file() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/init.php(63): jomiz_plugin->__construct(Object(stdClass))
+#1 /home1/nsairssystem/public_html/system/wp-settings.php(409): include_once('/home1/nsairssy...')
+#2 /home1/nsairssystem/public_html/system/wp-config.php(114): require_once('/home1/nsairssy...')
+#3 /home1/nsairssystem/public_html/system/wp-load.php(50): require_once('/home1/nsairssy...')
+#4 /home1/nsairssystem/public_html/system/wp-admin/admin.php(34): require_once('/home1/nsairssy...')
+#5 /home1/nsairssystem/public_html/system/wp-admin/plugins.php(10): require_once('/home1/nsairssy...')
+#6 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 14
+[10-Jan-2022 14:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_to_file() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14
+Stack trace:
+#0 /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/init.php(63): jomiz_plugin->__construct(Object(stdClass))
+#1 /home1/nsairssystem/public_html/system/wp-settings.php(409): include_once('/home1/nsairssy...')
+#2 /home1/nsairssystem/public_html/system/wp-config.php(114): require_once('/home1/nsairssy...')
+#3 /home1/nsairssystem/public_html/system/wp-load.php(50): require_once('/home1/nsairssy...')
+#4 /home1/nsairssystem/public_html/system/wp-admin/admin-ajax.php(22): require_once('/home1/nsairssy...')
+#5 {main}
+  thrown in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 14
+[10-Jan-2022 14:24:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:24:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:24:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 194
+[10-Jan-2022 14:33:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:34:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:34:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:34:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 194
+[10-Jan-2022 14:35:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/functions.php on line 6712
+[10-Jan-2022 14:35:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-admin/includes/misc.php on line 1310
+[10-Jan-2022 14:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/functions.php on line 6712
+[10-Jan-2022 14:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-admin/includes/misc.php on line 1310
+[10-Jan-2022 14:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-admin/admin-header.php on line 9
+[10-Jan-2022 14:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/functions.php on line 6712
+[10-Jan-2022 14:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-admin/includes/misc.php on line 1310
+[10-Jan-2022 14:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/pluggable.php on line 1340
+[10-Jan-2022 14:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/pluggable.php on line 1343
+[10-Jan-2022 14:36:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/pluggable.php on line 1340
+[10-Jan-2022 14:36:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php:14) in /home1/nsairssystem/public_html/system/wp-includes/pluggable.php on line 1343
+[10-Jan-2022 14:51:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:52:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:53:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:53:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 201
+[10-Jan-2022 14:54:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:54:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:54:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:55:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:55:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:55:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:56:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:56:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:57:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:57:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:57:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:58:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:58:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 14:59:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/PagesTemplater.php on line 42
+[10-Jan-2022 15:16:24 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[10-Jan-2022 15:19:16 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[18-Jan-2022 17:15:23 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[23-Jan-2022 11:28:20 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[23-Jan-2022 13:19:35 UTC] PHP Fatal error:  Cannot declare class lawyersys\reporting, because the name is already in use in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/datasources/lawyersys.reporting.class.php on line 59
+[23-Jan-2022 13:25:56 UTC] PHP Fatal error:  Cannot declare class lawyersys\reporting, because the name is already in use in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/datasources/lawyersys.reporting.class.php on line 59
+[23-Jan-2022 13:25:57 UTC] PHP Fatal error:  Cannot declare class lawyersys\reporting, because the name is already in use in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-lawyersys/plugin-content/datasources/lawyersys.reporting.class.php on line 59
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 202
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 211
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 221
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 226
+[23-Jan-2022 13:27:32 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 228
+[23-Jan-2022 13:54:52 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[23-Jan-2022 13:56:00 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[23-Jan-2022 13:56:10 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[13-Feb-2022 13:45:19 UTC] [Loco.warning] "Falling back to source extraction because pods.pot is missing" in src/ajax/SyncController.php:55
+[13-Feb-2022 13:45:20 UTC] [Loco.warning] "7 files over 100 KB have been skipped. (Largest is 308.6 KB). Check all strings are present before saving." in src/ajax/SyncController.php:101
+[13-Feb-2022 13:55:20 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[13-Feb-2022 14:00:34 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[13-Feb-2022 14:03:49 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[13-Feb-2022 14:14:43 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[13-Feb-2022 14:19:17 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[06-Mar-2022 02:00:41 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[06-Mar-2022 02:04:53 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[08-Mar-2022 02:29:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 171
+[08-Mar-2022 02:29:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/nsairssystem/public_html/system/wp-content/plugins/jomiz-plugins-manager/classes/jomiz_plugin.php on line 150

@@ -1,0 +1,557 @@
+# Translation of Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-21 13:46:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release)\n"
+
+#: ui/admin/postbox-header.php:36
+msgid "Click to toggle"
+msgstr "انقر للتبديل"
+
+#: ui/admin/postbox-header.php:30
+msgid "Toggle panel"
+msgstr "تبديل اللوحة"
+
+#: ui/admin/postbox-header.php:28
+msgid "Move box down"
+msgstr "انقل الصندوق لأسفل"
+
+#: classes/PodsInit.php:570
+msgid "Install Now"
+msgstr "التنصيب الآن"
+
+#: classes/PodsInit.php:572
+msgid "complete the process"
+msgstr "أكمل العملية"
+
+#: classes/PodsInit.php:571
+msgid "Donate"
+msgstr "تبرع"
+
+#: classes/PodsInit.php:569
+msgid "Free (WordPress.org)"
+msgstr "مجانًا (WordPress.org)"
+
+#: classes/fields/pick.php:213
+msgid "Item 1, Item 2 and Item 3"
+msgstr "العنصرو 1 العنصر 2 و العنصر 3"
+
+#: classes/fields/file.php:788
+msgid "Full Size"
+msgstr "الحجم الكامل"
+
+#: classes/fields/pick.php:221
+msgid "Used as separator for front-end display. This also turns off the \"and\" portion of the formatting."
+msgstr "استخدمها كفاصل لعرض الواجهة الأمامية. يؤدي هذا أيضًا إلى إيقاف تشغيل الجزء \"و\" من التنسيق."
+
+#: classes/fields/pick.php:220
+msgid "Display Format Separator"
+msgstr "عرض فاصل التنسيق"
+
+#: classes/fields/pick.php:214
+msgid "Custom separator (without \"and\")"
+msgstr "فاصل مخصص (بدون \"و\")"
+
+#: classes/fields/pick.php:212
+msgid "Item 1, Item 2, and Item 3"
+msgstr "البند 1 والبند 2 والبند 3"
+
+#: classes/fields/pick.php:204
+msgid "Used as format for front-end display"
+msgstr "تستخدم كتنسيق للعرض الأمامي للموقع"
+
+#: classes/fields/pick.php:203
+msgid "Display Format"
+msgstr "تنسيق العرض"
+
+#: tribe-common/src/admin-views/app-shop.php:88
+#: ui/admin/callouts/friends_2021_29.php:93
+msgid "Learn More"
+msgstr "معرفة المزيد"
+
+#: classes/PodsAdmin.php:2957
+msgid "Pods Shortcode Allow Evaluate Tags"
+msgstr "يسمح الرمز القصير للقرون بتقييم الوسوم"
+
+#: classes/PodsAPI.php:1640 classes/PodsAPI.php:1648 classes/PodsAPI.php:1663
+#: classes/PodsAPI.php:1683
+msgid "Please enter a Name for this Pod"
+msgstr "الرجاء إدخال اسم لهذه Pod"
+
+#: classes/fields/date.php:117
+msgid "Year range"
+msgstr "النطاق السنوي"
+
+#: classes/PodsComponents.php:805
+msgid "Component options method does not exist"
+msgstr "طريقة خيارات المكونات غير موجودة"
+
+#: classes/PodsAdmin.php:2521
+msgid "There was a problem with your request."
+msgstr "حدث خطأ أثناء معالجة طلبك."
+
+#: classes/PodsAdmin.php:2478 classes/PodsComponents.php:777
+msgid "API method does not exist"
+msgstr "طريقة واجهة برمجة تطبيق غير موجودة"
+
+#: classes/fields/file.php:982 classes/fields/file.php:984
+#: classes/fields/file.php:986 classes/PodsAdmin.php:2434
+#: classes/PodsComponents.php:753
+msgid "Invalid AJAX request"
+msgstr "طلب AJAX غير صالح"
+
+#: classes/fields/currency.php:476
+msgid "Nigerian Naira"
+msgstr "نايرا نيجيري"
+
+#: classes/PodsAdmin.php:2953
+msgid "Pods API Cache Activated"
+msgstr "تم تنشيط ذاكرة التخزين المؤقت لواجهة برمجة التطبيقات Pods"
+
+#: classes/PodsAdmin.php:2853
+msgid "Server Software"
+msgstr "برنامج الخادم"
+
+#: classes/PodsAdmin.php:2850
+msgid "Debug information for Pods installations."
+msgstr "معلومات التصحيح الخاصة بتثبيت Pods."
+
+#: classes/PodsAdmin.php:2893
+msgid "Object Cache: APC"
+msgstr "ذاكرة تخزين مؤقت للشفرة و تخزين بيانات"
+
+#: classes/PodsAdmin.php:2889
+msgid "Opcode Cache: Redis"
+msgstr "مخزن هيكل البيانات في الذاكرة"
+
+#: classes/PodsAdmin.php:2897
+msgid "Object Cache: APCu"
+msgstr "ذاكرة تخزين البيانات المؤقت"
+
+#: classes/PodsInit.php:2149
+msgid "%s updated"
+msgstr "تم تحديث %s"
+
+#: classes/fields/currency.php:560
+msgid "US Dollar Cent"
+msgstr "سنت الدولار الأمريكي"
+
+#: classes/fields/currency.php:392
+msgid "Chinese Yen (¥)"
+msgstr "الين الصيني (¥)"
+
+#: classes/fields/currency.php:398
+msgid "Chinese Yuan (元)"
+msgstr "اليوان الصيني (元)"
+
+#: classes/fields/currency.php:440
+msgid "Indonesian Rupiah"
+msgstr "الروبية الاندونيسية"
+
+#: classes/PodsInit.php:2145
+msgid "%s published"
+msgstr "تم نشر %s"
+
+#: src/Pods/Admin/Config/Pod.php:1008
+msgid "A short descriptive summary of what the taxonomy is."
+msgstr "ملخص وصفي قصير لما هو التصنيف."
+
+#: src/Pods/Admin/Config/Pod.php:1007
+msgid "Taxonomy Description"
+msgstr "وصف التصنيف"
+
+#: classes/cli/PodsAPI_CLI_Command.php:417
+#: classes/cli/PodsAPI_CLI_Command.php:494
+msgid "Error exporting Pods Package: %s"
+msgstr "خطأ في تصدير حزمة Pods: %s"
+
+#: classes/cli/PodsAPI_CLI_Command.php:432
+msgid "Pods Package exported: %s"
+msgstr "تم تصدير حزمة Pods: %s"
+
+#: classes/cli/PodsAPI_CLI_Command.php:434
+msgid "Pods Package not exported."
+msgstr "لم يتم تصدير حزمة Pods."
+
+#: classes/cli/PodsAPI_CLI_Command.php:483
+msgid "Invalid file format, the file must use the .json extension: %s"
+msgstr "تنسيق الملف غير صالح ، يجب أن يستخدم الملف الملحق بصيغة json :%s"
+
+#: classes/cli/PodsAPI_CLI_Command.php:437
+#: classes/cli/PodsAPI_CLI_Command.php:489
+msgid "No Pods Package data found."
+msgstr "لم يتم العثور على بيانات حزمة Pods."
+
+#: classes/PodsInit.php:2141 src/Pods/Admin/Config/Pod.php:416
+msgid "Uploaded to this %s"
+msgstr "تم الرفع إلى  %s"
+
+#: classes/PodsInit.php:2167 src/Pods/Admin/Config/Pod.php:511
+msgid "No %s"
+msgstr "لا %s"
+
+#: classes/PodsInit.php:2138 src/Pods/Admin/Config/Pod.php:389
+msgid "%s Archives"
+msgstr "أرشيف %s"
+
+#: classes/PodsInit.php:2140 src/Pods/Admin/Config/Pod.php:407
+msgid "Insert into %s"
+msgstr "إدخال إلى  %s"
+
+#: classes/PodsInit.php:2137
+msgid "Use as featured image"
+msgstr "استخدامها كصورة بارزة"
+
+#: classes/PodsInit.php:2135
+msgid "Set featured image"
+msgstr "وضع الصورة المفضلة"
+
+#: classes/PodsInit.php:2136
+msgid "Remove featured image"
+msgstr "حذف الصورة البارزة "
+
+#: src/Pods/Admin/Config/Pod.php:924
+msgid "Revisions"
+msgstr "المراجعات"
+
+#: ui/admin/setup-add.php:226
+msgid "Menu Label"
+msgstr "تسمية القائمة "
+
+#: src/Pods/Admin/Config/Pod.php:883 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "العنوان"
+
+#: ui/fields/color.php:17
+msgid "Current Color"
+msgstr "اللون الحالي"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:122
+#: ui/admin/upgrade/upgrade_2_0_0.php:230
+msgid "Helpers"
+msgstr "المساعدون"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:15 ui/admin/upgrade/upgrade_2_1_0.php:15
+msgid "Getting Started"
+msgstr "الشروع في العمل"
+
+#: ui/admin/shortcode.php:522
+msgid "Insert"
+msgstr "إدراج"
+
+#: ui/admin/upgrade/backup.php:21
+msgid "1 free month"
+msgstr "شهر واحد مجاناً"
+
+#: ui/admin/upgrade/backup.php:23
+msgid "Click to sign up"
+msgstr "انقر للاشتراك"
+
+#: src/Pods/Admin/Config/Pod.php:904
+msgid "Excerpt"
+msgstr "المقتطف"
+
+#: src/Pods/Admin/Config/Pod.php:893
+msgid "Author"
+msgstr "الكاتب"
+
+#: ui/admin/upgrade/upgrade_2_1_0.php:32
+msgid "We need to run a few updates to your database to optimize your relationship data."
+msgstr "نحن بحاجة إلى تشغيل عدد قليل من التحديثات في قاعدة البيانات لتحسين البيانات لحقول الارتباط."
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:157
+msgid "Migrating Your Content"
+msgstr "نقل المحتوى الخاص بك"
+
+#: ui/admin/upgrade/backup.php:10
+msgid "Coupon Code"
+msgstr "رمز الكوبون"
+
+#: src/Pods/Admin/Config/Pod.php:1524
+msgid "Title Field"
+msgstr "عنوان الحقل"
+
+#: src/Pods/Admin/Config/Field.php:137
+msgid "Field Type"
+msgstr "نمط الحقل"
+
+#: src/Pods/Admin/Config/Field.php:173
+msgid "Related Table"
+msgstr "جدول ذو الصلة"
+
+#: classes/fields/color.php:48 classes/fields/color.php:108
+#: ui/fields/color.php:16
+msgid "Select Color"
+msgstr "اختر لونًا"
+
+#: classes/fields/currency.php:132 components/I18n/I18n.php:823
+#: src/Pods/Admin/Config/Group.php:229 ui/fields/color.php:15
+msgid "Default"
+msgstr "افتراضي"
+
+#: src/Pods/Admin/Config/Field.php:161
+msgid "Custom Defined Options"
+msgstr "خيارات محددة مخصصة"
+
+#: src/Pods/Whatsit/Block.php:40
+msgid "Options"
+msgstr "خيارات"
+
+#: src/Pods/Admin/Config/Field.php:198
+msgid "Required"
+msgstr "مطلوب"
+
+#: src/Pods/Admin/Config/Field.php:503
+msgid "Unique"
+msgstr "فريد"
+
+#: src/Pods/Admin/Config/Field.php:344
+msgid "-- Select Table --"
+msgstr "-- اختر الجدول --"
+
+#: src/Pods/Admin/Config/Field.php:404 src/Pods/Admin/Config/Field.php:405
+#: src/Pods/Admin/Config/Field.php:408
+msgid "Other"
+msgstr "أُخرى:"
+
+#: src/Pods/Admin/Config/Pod.php:879
+msgid "Supports"
+msgstr "مساعدة"
+
+#: classes/PodsInit.php:2134 src/Pods/Admin/Config/Pod.php:425
+#: src/Pods/Admin/Config/Pod.php:898
+msgid "Featured Image"
+msgstr "الصورة البارزة"
+
+#: src/Pods/Admin/Config/Pod.php:929
+msgid "Page Attributes"
+msgstr "خصائص الصفحة"
+
+#: src/Pods/Integrations/Genesis.php:40
+msgid "Genesis: Simple Sidebars"
+msgstr "الإنشاء: شريط جانبي بسيط"
+
+#: src/Pods/Admin/Config/Pod.php:1518
+msgid "Detail Page URL"
+msgstr "عنوان URL لتفصيل الصفحة"
+
+#: ui/admin/upgrade/backup.php:8
+msgid "Receive 25% off"
+msgstr "احصل على 25٪ خصم"
+
+#: ui/admin/shortcode.php:352
+msgid "Display a field from this item"
+msgstr "عرض حقل من هذا العنصر"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:18 ui/admin/upgrade/upgrade_2_1_0.php:18
+msgid "Prepare"
+msgstr "إعداد"
+
+#: ui/admin/upgrade/upgrade_2_1_0.php:117
+msgid "Upgrade Complete!"
+msgstr "اكتملت الترقية!"
+
+#: ui/admin/widgets/list.php:76
+msgid "Before Content"
+msgstr "قبل المحتوى"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:104
+#: ui/admin/upgrade/upgrade_2_0_0.php:212
+msgid "Templates"
+msgstr "قوالب"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:134
+#: ui/admin/upgrade/upgrade_2_0_0.php:242
+msgid "Content"
+msgstr "المحتوى"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:167
+msgid "1.x Updates"
+msgstr "تحديثات الإصدار 1.x"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:255
+#: ui/admin/upgrade/upgrade_2_1_0.php:102
+msgid "Cleanup"
+msgstr "تنظيف"
+
+#: ui/admin/widgets/list.php:88
+msgid "After Content"
+msgstr "بعد المحتوى"
+
+#: classes/fields/file.php:538 classes/PodsI18n.php:186
+msgid "Allowed Files"
+msgstr "الملفات المسموح بها"
+
+#: src/Pods/Admin/Config/Pod.php:367
+msgid "Not Found"
+msgstr "لم يتم العثور عليه"
+
+#: ui/admin/setup-add.php:164 ui/admin/setup-add.php:358
+msgid "Content Type"
+msgstr "نوع المحتوى"
+
+#: components/Migrate-Packages/ui/wizard.php:328
+msgid "Continue"
+msgstr "متابعة"
+
+#: ui/admin/view.php:55 ui/forms/type/post.php:84
+msgid "Last Modified"
+msgstr "اخر تعديل"
+
+#: components/Roles/ui/edit.php:46 ui/forms/form.php:164
+msgid "Save"
+msgstr "حفظ"
+
+#: components/Migrate-Packages/ui/wizard.php:52
+msgid "Import"
+msgstr "استيراد"
+
+#: components/Roles/ui/add.php:19
+msgid "Naming"
+msgstr "تسمية"
+
+#: components/Templates/Templates.php:333
+msgid "Enter template name here"
+msgstr "أدخل اسم القالب هنا"
+
+#: components/Table-Storage.php:53 ui/admin/setup-add.php:373
+msgid "Taxonomies (Categories, Tags, etc..)"
+msgstr "التصنيفات المخصصة (تصنيفات، وسوم ، الخ ..)"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:192
+msgid "Singular Template Location"
+msgstr "موقع النموذج الواحد"
+
+#: classes/widgets/PodsWidgetForm.php:38 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:74
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:47
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:145
+msgid "Submit"
+msgstr "إرسال"
+
+#: classes/fields/pick.php:600 src/Pods/Admin/Config/Pod.php:979
+#: src/Pods/Admin/Config/Pod.php:980
+msgid "Taxonomies"
+msgstr "التصنيفات المخصصة"
+
+#: classes/PodsUI.php:4775
+msgid "Current page"
+msgstr "الصفحة الحالية"
+
+#: classes/PodsUI.php:4803
+msgid "Go to the next page"
+msgstr "انتقل للصفحة التالية"
+
+#: classes/PodsUI.php:4804
+msgid "Go to the last page"
+msgstr "انتقل للصفحة الأخيرة"
+
+#: classes/PodsUI.php:3050 tribe-common/src/Tribe/Dialog/View.php:228
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: classes/fields/boolean.php:58 classes/fields/boolean.php:223
+#: classes/fields/boolean.php:246 classes/PodsAdmin.php:2866
+#: classes/PodsAdmin.php:2870 classes/PodsAdmin.php:2878
+#: classes/PodsAdmin.php:2882 classes/PodsAdmin.php:2886
+#: classes/PodsAdmin.php:2890 classes/PodsAdmin.php:2894
+#: classes/PodsAdmin.php:2898 classes/PodsAdmin.php:2902
+#: classes/PodsAdmin.php:2906 classes/PodsAdmin.php:2910
+#: classes/PodsAdmin.php:2922 classes/PodsAdmin.php:2930
+#: classes/PodsAdmin.php:2934 classes/PodsAdmin.php:2938
+#: classes/PodsAdmin.php:2942 classes/PodsAdmin.php:2946
+#: classes/PodsAdmin.php:2950 classes/PodsAdmin.php:2954
+#: classes/PodsAdmin.php:2958 classes/PodsAdmin.php:2966
+#: classes/PodsUI.php:2899 classes/PodsUI.php:3328 classes/PodsUI.php:3579
+#: src/Pods/Whatsit/Block_Field.php:255
+msgid "No"
+msgstr "لا"
+
+#: classes/PodsAdmin.php:2044 src/Pods/Admin/Config/Field.php:130
+msgid "Description"
+msgstr "الوصف"
+
+#: classes/fields/file.php:78
+msgid "Multiple Files"
+msgstr "ملفات متعددة"
+
+#: classes/fields/color.php:54 classes/fields/color.php:111
+#: classes/PodsUI.php:3480 classes/PodsUI.php:3539 classes/PodsUI.php:3588
+#: classes/PodsUI.php:3627 tribe-common/src/Tribe/Main.php:347
+#: ui/fields/color.php:14
+msgid "Clear"
+msgstr "مسح"
+
+#: classes/fields/boolean.php:53 classes/fields/boolean.php:222
+#: classes/fields/boolean.php:245 classes/PodsAdmin.php:2866
+#: classes/PodsAdmin.php:2870 classes/PodsAdmin.php:2878
+#: classes/PodsAdmin.php:2882 classes/PodsAdmin.php:2886
+#: classes/PodsAdmin.php:2890 classes/PodsAdmin.php:2894
+#: classes/PodsAdmin.php:2898 classes/PodsAdmin.php:2902
+#: classes/PodsAdmin.php:2906 classes/PodsAdmin.php:2910
+#: classes/PodsAdmin.php:2922 classes/PodsAdmin.php:2930
+#: classes/PodsAdmin.php:2934 classes/PodsAdmin.php:2938
+#: classes/PodsAdmin.php:2942 classes/PodsAdmin.php:2946
+#: classes/PodsAdmin.php:2950 classes/PodsAdmin.php:2954
+#: classes/PodsAdmin.php:2958 classes/PodsAdmin.php:2966
+#: classes/PodsUI.php:2898 classes/PodsUI.php:3327 classes/PodsUI.php:3578
+#: src/Pods/Whatsit/Block_Field.php:251
+msgid "Yes"
+msgstr "نعم"
+
+#: classes/PodsAdmin.php:543 classes/PodsAdmin.php:562
+#: tribe-common/src/Tribe/Settings.php:254 ui/admin/components-admin.php:10
+#: ui/admin/settings-settings.php:68 ui/admin/settings-settings.php:72
+#: ui/admin/settings.php:11 ui/admin/upgrade/upgrade_2_0_0.php:203
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: classes/PodsAdmin.php:548 classes/PodsAdmin.php:567
+#: tribe-common/src/Tribe/Settings_Manager.php:323
+msgid "Help"
+msgstr "المساعدة"
+
+#: classes/Pods.php:4267 components/Migrate-Packages/ui/wizard.php:65
+#: src/Pods/Admin/Config/Pod.php:1437
+msgid "Export"
+msgstr "تصدير"
+
+#: classes/fields/pick.php:245 classes/fields/pick.php:887
+#: classes/PodsAdmin.php:279 classes/PodsAdmin.php:306
+#: classes/PodsAdmin.php:307 classes/PodsAdmin.php:353
+#: classes/PodsAdmin.php:372 classes/PodsAdmin.php:533 classes/PodsI18n.php:151
+#: classes/PodsInit.php:2120 classes/PodsUI.php:742 classes/PodsUI.php:767
+#: src/Pods/Admin/Config/Pod.php:164 src/Pods/Admin/Config/Pod.php:1432
+msgid "Add New"
+msgstr "اضافة جديد"
+
+#: classes/PodsAdmin.php:904 classes/PodsAdmin.php:2028 classes/PodsUI.php:785
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: src/Pods/Admin/Config/Field.php:119 src/Pods/Admin/Config/Group.php:99
+msgid "Name"
+msgstr "الاسم"
+
+#: classes/PodsAdmin.php:277 classes/PodsAdmin.php:351 classes/PodsI18n.php:171
+#: classes/PodsInit.php:2123 classes/PodsUI.php:743 classes/PodsUI.php:4396
+#: src/Pods/Admin/Config/Pod.php:197 src/Pods/Admin/Config/Pod.php:1433
+msgid "Edit"
+msgstr "تحرير"
+
+#: classes/Pods.php:4274 classes/PodsAdmin.php:1060 classes/PodsUI.php:4427
+#: src/Pods/Admin/Config/Pod.php:1435 ui/admin/view.php:80
+#: ui/forms/type/post.php:129
+msgid "Delete"
+msgstr "إلغاء"
+
+#: classes/PodsAPI.php:1102 classes/PodsAPI.php:1113
+msgid "Closed"
+msgstr "مُغلق"

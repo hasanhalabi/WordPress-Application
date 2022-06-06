@@ -1,0 +1,1468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JoMiz System\n"
+"POT-Creation-Date: 2015-12-03 12:57+0200\n"
+"PO-Revision-Date: 2015-12-03 13:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: info@jomiz.net\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:4
+msgid ""
+"Whoah! You are trying to access some crazy crap right now.  You know, that "
+"kind that <em>does not exist</em>.  So stop, take a deep breath, and think a "
+"little.  Maybe you can find what you want by searching.  Maybe you made a "
+"typo.  As a humble 404 Not Found page, there is only so much I can know.  "
+"But I wish you the best of luck at finding the thing you are looking for, "
+"whomever you are."
+msgstr ""
+
+#: archive.php:9
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:11
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:15
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:22 archive.php:58 author.php:15 category.php:15 category.php:54
+#: search.php:12 search.php:53 tags.php:14 tags.php:52
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: archive.php:23 archive.php:59 author.php:16 category.php:16 category.php:55
+#: search.php:13 search.php:54 tags.php:15 tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: archive.php:30 author.php:23 category.php:23 search.php:20 tags.php:22
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: archive.php:33 author.php:26 category.php:26 search.php:24 tags.php:25
+msgid "By "
+msgstr ""
+
+#: archive.php:34 author.php:27 category.php:27 search.php:25 tags.php:26
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: archive.php:36 author.php:29 category.php:29 search.php:27 tags.php:28
+msgid "Published "
+msgstr ""
+
+#: archive.php:38 archive.php:50 author.php:31 author.php:43 category.php:31
+#: category.php:46 page-users-groups.php:108 page.php:13
+#: pages/jomiz-plugins-accounting/page-Accounts.php:140
+#: pages/jomiz-plugins-accounting/page-Currencies.php:168
+#: pages/jomiz-plugins-accounting/page-Currencies.php:187
+#: pages/jomiz-plugins-accounting/page-Currencies.php:206
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:156
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:175
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:194
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:214
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:231
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:247
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:263
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:173
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:190
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:206
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:222
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:149
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:165
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:181
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:197
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:83
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:97
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:111
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:125
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:214
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:231
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:247
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:263
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:220
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:237
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:253
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:269
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:142
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:157
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:172
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:187
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:202
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:217
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:232
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:247
+#: pages/jomiz-plugins-accounting/page-Segments.php:135
+#: pages/jomiz-plugins-accounting/page-Segments.php:150
+#: pages/jomiz-plugins-accounting/page-Segments.php:165 search.php:29
+#: search.php:44 single.php:34 tags.php:30 tags.php:44 theme-parts/look.php:18
+#: theme-parts/settings.php:9
+msgid "Edit"
+msgstr ""
+
+#: archive.php:42 author.php:35 category.php:35 search.php:34 tags.php:34
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: archive.php:46 author.php:39 search.php:40 tags.php:38
+msgid "Posted in "
+msgstr ""
+
+#: archive.php:48 author.php:41 category.php:44 search.php:42
+msgid "Tagged "
+msgstr ""
+
+#: archive.php:49 author.php:42 category.php:45 search.php:43 tags.php:43
+msgid "Leave a comment"
+msgstr ""
+
+#: archive.php:49 author.php:42 category.php:45 search.php:43 tags.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:49 author.php:42 category.php:45 search.php:43 tags.php:43
+msgid "% Comments"
+msgstr ""
+
+#: author.php:8
+#, php-format
+msgid "Author Archives: <span class=\"vcard\">%s</span>"
+msgstr ""
+
+#: category.php:8
+msgid "Category Archives:"
+msgstr ""
+
+#: category.php:40
+#, php-format
+msgid "Also posted in %s"
+msgstr ""
+
+#: header.php:30 header.php:59
+msgid "Logout"
+msgstr ""
+
+#: header.php:53
+msgid "Search within system..."
+msgstr ""
+
+#: login.php:41
+msgid "Username"
+msgstr ""
+
+#: login.php:42
+msgid "Password"
+msgstr ""
+
+#: login.php:43
+msgid "Remember Me"
+msgstr ""
+
+#: login.php:44
+msgid "Log In"
+msgstr ""
+
+#: page-users-groups-edit.php:26 page-users-groups.php:92
+msgid "Users Group"
+msgstr ""
+
+#: page-users-groups-edit.php:30
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Accounts.php:15
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Currencies.php:15
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:15
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:15
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:15
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:15
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:14
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:15
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:15
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:15
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:14
+#: pages/jomiz-plugins-accounting/page-Segments.php:15
+msgid "Accounting"
+msgstr ""
+
+#: page-users-groups-edit.php:35
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Currencies.php:11
+#: pages/jomiz-plugins-accounting/page-Currencies.php:18
+#: pages/jomiz-plugins-accounting/page-Currencies.php:129
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:117
+msgid "Currencies"
+msgstr ""
+
+#: page-users-groups-edit.php:39 page-users-groups.php:28
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Accounts.php:25
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Currencies.php:25
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:26
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:26
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:28
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:26
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:26
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:24
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:26
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:29
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:25
+#: pages/jomiz-plugins-accounting/page-Segments.php:25
+msgid "Add"
+msgstr ""
+
+#: page-users-groups-edit.php:49
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:33
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:267
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:39
+msgid "Save"
+msgstr ""
+
+#: page-users-groups-edit.php:50
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:34
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:40
+msgid "Save &amp; Close"
+msgstr ""
+
+#: page-users-groups-edit.php:51
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:35
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:270
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:41
+msgid "Cancel"
+msgstr ""
+
+#: page-users-groups-edit.php:52
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:36
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:37
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:42
+msgid "Return"
+msgstr ""
+
+#: page-users-groups-edit.php:55 page-users-groups.php:109
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:39
+#: pages/jomiz-plugins-accounting/page-Accounts.php:141
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Currencies.php:169
+#: pages/jomiz-plugins-accounting/page-Currencies.php:188
+#: pages/jomiz-plugins-accounting/page-Currencies.php:207
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:157
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:176
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:195
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:215
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:232
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:248
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:264
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:174
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:191
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:207
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:223
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:150
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:166
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:182
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:198
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:84
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:98
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:112
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:126
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:215
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:232
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:248
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:264
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:221
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:238
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:254
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:270
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:143
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:158
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:173
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:188
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:203
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:218
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:233
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:248
+#: pages/jomiz-plugins-accounting/page-Segments.php:136
+#: pages/jomiz-plugins-accounting/page-Segments.php:151
+#: pages/jomiz-plugins-accounting/page-Segments.php:166
+msgid "Delete"
+msgstr ""
+
+#: page-users-groups-edit.php:56
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:40
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:24
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:46
+msgid "Print"
+msgstr ""
+
+#: page-users-groups-edit.php:57 page-users-groups.php:30
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:41
+#: pages/jomiz-plugins-accounting/page-Accounts.php:28
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Currencies.php:28
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:29
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:29
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:31
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:29
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:25
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:29
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:29
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:42
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:47
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:28
+#: pages/jomiz-plugins-accounting/page-Segments.php:28
+msgid "Help"
+msgstr ""
+
+#: page-users-groups-edit.php:72
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:55
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:57
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:62
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:67
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:62
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:154
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:61
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:61
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:57
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:62
+msgid "Basic Information"
+msgstr ""
+
+#: page-users-groups-edit.php:85
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:70
+#: pages/jomiz-plugins-accounting/page-Currencies.php:54
+#: pages/jomiz-plugins-accounting/page-Currencies.php:56
+msgid "Currency Name"
+msgstr ""
+
+#: page-users-groups-edit.php:93
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:78
+#: pages/jomiz-plugins-accounting/page-Currencies.php:62
+#: pages/jomiz-plugins-accounting/page-Currencies.php:64
+msgid "Currency Code"
+msgstr ""
+
+#: page-users-groups-edit.php:102
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:87
+#: pages/jomiz-plugins-accounting/page-Currencies.php:84
+msgid "Exchange Rate Type"
+msgstr ""
+
+#: page-users-groups-edit.php:104
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:86
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:89
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:77
+msgid "Chose Account Type..."
+msgstr ""
+
+#: page-users-groups-edit.php:113
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:98
+#: pages/jomiz-plugins-accounting/page-Currencies.php:71
+#: pages/jomiz-plugins-accounting/page-Currencies.php:146
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:134
+msgid "Exchange Rate"
+msgstr ""
+
+#: page-users-groups-edit.php:123
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:108
+#: pages/jomiz-plugins-accounting/page-Currencies.php:98
+#: pages/jomiz-plugins-accounting/page-Currencies.php:149
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:137
+msgid "Is Default"
+msgstr ""
+
+#: page-users-groups-edit.php:132
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:202
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:117
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:203
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:380
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:231
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:238
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:392
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:383
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:180
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:108
+msgid "Owner Information"
+msgstr ""
+
+#: page-users-groups-edit.php:147
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:217
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:132
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:218
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:395
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:246
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:241
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:407
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:398
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:195
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:123
+msgid "File Owner"
+msgstr ""
+
+#: page-users-groups-edit.php:155
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:225
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:140
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:226
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:403
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:254
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:249
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:415
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:406
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:203
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:131
+msgid "Created On"
+msgstr ""
+
+#: page-users-groups-edit.php:163
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:233
+#: pages/jomiz-plugins-accounting/page-Currencies-Edit.php:148
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:234
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:411
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:262
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:257
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:423
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:414
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:211
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:139
+msgid "Modified On"
+msgstr ""
+
+#: page-users-groups-edit.php:182
+msgid "Edit Users Group"
+msgstr ""
+
+#: page-users-groups-edit.php:184
+msgid "Add Users Group"
+msgstr ""
+
+#: page-users-groups.php:18 page-users-groups.php:21 page-users-groups.php:134
+#: temps/lang-terms.php:3
+msgid "Users Groups"
+msgstr ""
+
+#: page-users-groups.php:29 pages/jomiz-plugins-accounting/page-Accounts.php:26
+#: pages/jomiz-plugins-accounting/page-Currencies.php:26
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:27
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:27
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:29
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:27
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:27
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:27
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:26
+#: pages/jomiz-plugins-accounting/page-Segments.php:26
+msgid "Delete Selected"
+msgstr ""
+
+#: page-users-groups.php:41 pages/jomiz-plugins-accounting/page-Accounts.php:39
+#: pages/jomiz-plugins-accounting/page-Currencies.php:39
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:40
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:40
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:42
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:40
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:40
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:40
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:39
+#: pages/jomiz-plugins-accounting/page-Segments.php:39
+msgid "Filter"
+msgstr ""
+
+#: page-users-groups.php:56 page-users-groups.php:58
+msgid "Group Name"
+msgstr ""
+
+#: page-users-groups.php:63 pages/jomiz-plugins-accounting/page-Accounts.php:89
+#: pages/jomiz-plugins-accounting/page-Currencies.php:111
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:99
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:159
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:118
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:94
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:48
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:159
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:165
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:94
+#: pages/jomiz-plugins-accounting/page-Segments.php:87
+msgid "Search"
+msgstr ""
+
+#: page-users-groups.php:81
+msgid "User Groups"
+msgstr ""
+
+#: page-users-groups.php:107
+#: pages/jomiz-plugins-accounting/page-Accounts.php:139
+#: pages/jomiz-plugins-accounting/page-Currencies.php:167
+#: pages/jomiz-plugins-accounting/page-Currencies.php:186
+#: pages/jomiz-plugins-accounting/page-Currencies.php:205
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:155
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:174
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:193
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:213
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:230
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:246
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:262
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:172
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:189
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:205
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:221
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:148
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:164
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:180
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:196
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:82
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:96
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:110
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:124
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:213
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:230
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:246
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:262
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:219
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:236
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:252
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:268
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:141
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:156
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:171
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:186
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:201
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:216
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:231
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:246
+#: pages/jomiz-plugins-accounting/page-Segments.php:134
+#: pages/jomiz-plugins-accounting/page-Segments.php:149
+#: pages/jomiz-plugins-accounting/page-Segments.php:164
+msgid "View"
+msgstr ""
+
+#: page-users-groups.php:119
+msgid "Number of Groups"
+msgstr ""
+
+#: page.php:12 search.php:35 single.php:14
+msgid "Pages:"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Accounts.php:11
+#: pages/jomiz-plugins-accounting/page-Accounts.php:18
+#: pages/jomiz-plugins-accounting/page-Accounts.php:104
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:99
+msgid "Accounts"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:68
+msgid "Account Number"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:70
+msgid "Account numbers generated automatically by the system."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:76
+msgid "Account Name"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:84
+msgid "Account Type"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:98
+msgid "Active"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:106
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:63
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:65
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:197
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:124
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:109
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:111
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:156
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:110
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:81
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:83
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:166
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:63
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:65
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:197
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:157
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:71
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:73
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:203
+msgid "Remarks"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:117
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:122
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:17
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:109
+#: pages/jomiz-plugins-accounting/page-Segments.php:11
+#: pages/jomiz-plugins-accounting/page-Segments.php:18
+#: pages/jomiz-plugins-accounting/page-Segments.php:102
+msgid "Segments"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:130
+msgid "Enable"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:133
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:153
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:136
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:195
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:186
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:91
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:54
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:120
+#: pages/jomiz-plugins-accounting/page-Segments.php:54
+#: pages/jomiz-plugins-accounting/page-Segments.php:56
+#: pages/jomiz-plugins-accounting/page-Segments.php:113
+msgid "Segment"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts-Edit.php:136
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:115
+msgid "Mandatory"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:27
+#: pages/jomiz-plugins-accounting/page-Currencies.php:27
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:28
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:28
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:30
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:28
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:28
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:28
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:27
+#: pages/jomiz-plugins-accounting/page-Segments.php:27
+msgid "Print Selected"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:54
+#: pages/jomiz-plugins-accounting/page-Accounts.php:56
+#: pages/jomiz-plugins-accounting/page-Accounts.php:115
+msgid "Number"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:62
+#: pages/jomiz-plugins-accounting/page-Accounts.php:64
+#: pages/jomiz-plugins-accounting/page-Accounts.php:118
+msgid "Name"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:70
+#: pages/jomiz-plugins-accounting/page-Accounts.php:121
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:97
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:56
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:157
+msgid "Type"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:72
+#: pages/jomiz-plugins-accounting/page-Currencies.php:86
+#: pages/jomiz-plugins-accounting/page-Currencies.php:100
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:118
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:131
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:144
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:81
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:57
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:71
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:118
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:131
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:144
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:131
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:125
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:138
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:153
+#: pages/jomiz-plugins-accounting/page-Segments.php:72
+msgid "Chose Value..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:153
+msgid "Number of Accounts"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:158
+#: pages/jomiz-plugins-accounting/page-Currencies.php:223
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:211
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:279
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:238
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:213
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:279
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:285
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:263
+#: pages/jomiz-plugins-accounting/page-Segments.php:181
+msgid "Paging Previous"
+msgstr "Previous"
+
+#: pages/jomiz-plugins-accounting/page-Accounts.php:169
+#: pages/jomiz-plugins-accounting/page-Currencies.php:234
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:222
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:290
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:249
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:224
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:290
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:296
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:274
+#: pages/jomiz-plugins-accounting/page-Segments.php:192
+msgid "Paging Next"
+msgstr "Next"
+
+#: pages/jomiz-plugins-accounting/page-Currencies.php:74
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:59
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:75
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:89
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:106
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:69
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:97
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:75
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:89
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:106
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:83
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:99
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:113
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:71
+msgid "From"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Currencies.php:76
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:61
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:77
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:91
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:108
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:71
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:99
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:77
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:91
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:108
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:85
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:101
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:115
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:73
+msgid "To"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Currencies.php:140
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:128
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:162
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:201
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:192
+msgid "Currency"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Currencies.php:143
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:131
+#: pages/jomiz-plugins-accounting/page-Segments.php:62
+#: pages/jomiz-plugins-accounting/page-Segments.php:64
+#: pages/jomiz-plugins-accounting/page-Segments.php:116
+msgid "Code"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Currencies.php:218
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:206
+msgid "Number of Currencies"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:11
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:18
+msgid "Fiscal Years"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:46
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:25
+msgid "Close Fiscal Year"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:75
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:56
+msgid "Year"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:83
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:82
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:142
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:194
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:79
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:153
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:89
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:69
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:132
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:142
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:194
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:151
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:200
+msgid "Status"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:92
+msgid "Number Of Periods"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:94
+msgid "Chose Number Of Periods..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:109
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:69
+msgid "Periods"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:123
+msgid "Numbers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:126
+msgid "Starts On"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years-Edit.php:129
+msgid "Ends On"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:71
+#: pages/jomiz-plugins-accounting/page-Fiscal-Years.php:84
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:56
+msgid "Chose Values..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:11
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:18
+msgid "Ingoing Cheques Managements"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:25
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:23
+msgid "Post Cheque Status"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:55
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:57
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:188
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:80
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:57
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:59
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:147
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:74
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:55
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:57
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:188
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:74
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:55
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:57
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:194
+msgid "Voucher Number"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:72
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:191
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:114
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:66
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:150
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:108
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:72
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:191
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:109
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:80
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:197
+msgid "Date"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:86
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:215
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:128
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:86
+msgid "Clearance Date"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:103
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:88
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:94
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:82
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:103
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:82
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:110
+msgid "Fiscal Year"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:116
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:138
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:116
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:142
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:136
+msgid "Payment Method"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:120
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:142
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:120
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:146
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:140
+msgid "Cash"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:121
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:143
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:121
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:147
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:141
+msgid "Cheque"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:122
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:144
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:122
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:148
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:142
+msgid "Money Wiring"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:129
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:153
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:129
+msgid "Payment Account"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:146
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:83
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:146
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:155
+msgid "Waiting for Acceptance"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:147
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:84
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:74
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:147
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:156
+msgid "Not Posted"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:148
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:86
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:148
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:157
+msgid "Rejected"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:177
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:11
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:18
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:177
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:183
+msgid "Payment Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Ingoing-Cheques-Managements.php:274
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:274
+msgid "Number of Payment Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:11
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:18
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:136
+msgid "Journal Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:46
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:25
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:46
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers.php:25
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:46
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:25
+msgid "Post To Review"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:48
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:49
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:26
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:85
+msgid "Accept"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:51
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:52
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:27
+msgid "Reject"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:82
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:76
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:76
+msgid "Voucher Number Generated Automatically by the system."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:96
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:90
+msgid "Voucher Type"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:104
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:98
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:90
+msgid "Period"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:136
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:178
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:169
+msgid "Transactions"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:150
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:75
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:55
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:123
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:192
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:183
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:112
+msgid "Account"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:156
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:100
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:126
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:189
+msgid "Debit"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:159
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:101
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:129
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:198
+msgid "Credit"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:165
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:204
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:195
+msgid "X-Rate"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:168
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:198
+msgid "Dr"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:171
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:207
+msgid "Cr"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:174
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:210
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:201
+msgid "Memo"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:354
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:223
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:366
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:357
+msgid "Attachments"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers-Edit.php:371
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:233
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:383
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:374
+msgid "Upload Attachments!"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Journal-Vouchers.php:233
+msgid "Number of Journal Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:11
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:18
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:112
+msgid "Opening Balances"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:45
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:46
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:25
+msgid "Post Amounts"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:139
+msgid "Value"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances-Edit.php:142
+msgid "Opening Amount"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:73
+msgid "Posted"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Opening-Balances.php:208
+msgid "Number of Opening Balances"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:11
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:36
+msgid "Cheques Managements"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:16
+msgid "Outgoing Cheques Management"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:47
+msgid "Searching for..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:59
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:165
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:134
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:128
+msgid "Bank"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:62
+msgid "Cheque Number"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:65
+msgid "Date Cheque"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:68
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:205
+msgid "Status Cheque"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:138
+msgid "Number of Cheques Managements"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:145
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:280
+msgid "Edit Cheque"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:173
+msgid "Issued By"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:181
+msgid "Cheque For"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:189
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:118
+msgid "Issue Date"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:197
+msgid "Cheque Date"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:208
+msgid "Cleared"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:209
+msgid "Clearance Date Not Come"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:210
+msgid "Bounced"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Outgoing-Cheques-Mangements.php:278
+msgid "Not Saved"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:140
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:144
+msgid "Chose Payment Method Type..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Payment-Vouchers-Edit.php:155
+msgid "Chose Payment Account Type..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:20
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:11
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:18
+msgid "Receipt Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:98
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:63
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:65
+msgid "Bank Issuing The Cheque"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:119
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:96
+msgid "Due Date"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:129
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:123
+msgid "Amount Goes Into"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:133
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:127
+msgid "Cash Box"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers-Edit.php:135
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:129
+msgid "Incoming Cheques"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Receipt-Vouchers.php:280
+msgid "Number of Receipt Vouchers"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:70
+msgid "Segment Name"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:78
+msgid "Segment Code"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Edit.php:87
+#: pages/jomiz-plugins-accounting/page-Segments.php:70
+#: pages/jomiz-plugins-accounting/page-Segments.php:119
+msgid "Enabled"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:11
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:11
+msgid "Segments Values"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:25
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:19
+msgid "Values"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:75
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:68
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:123
+msgid "Value ID"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:83
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:81
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:83
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:126
+msgid "Value Text"
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values-Edit.php:93
+msgid "Chose Segment..."
+msgstr ""
+
+#: pages/jomiz-plugins-accounting/page-Segments-Values.php:258
+#: pages/jomiz-plugins-accounting/page-Segments.php:176
+msgid "Number of Segments"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: search.php:61
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:63
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:18
+#, php-format
+msgid ""
+"This entry was posted in %1$s%2$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>. Follow any comments "
+"here with the <a href=\"%5$s\" title=\"Comments RSS to %4$s\" rel=\"alternate"
+"\" type=\"application/rss+xml\">RSS feed for this post</a>."
+msgstr ""
+
+#: single.php:20
+msgid " and tagged "
+msgstr ""
+
+#: single.php:26
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: single.php:28
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: single.php:30
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: single.php:32
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: tags.php:8
+msgid "Tag Archives:"
+msgstr ""
+
+#: tags.php:41
+#, php-format
+msgid "Also tagged %s"
+msgstr ""
+
+#: temps/lang-terms.php:2
+msgid "Settings"
+msgstr ""
+
+#: theme-parts/look.php:5
+msgid "Page "
+msgstr ""
+
+#: theme-parts/look.php:17
+#, php-format
+msgid ""
+"Posted %1$s at %2$s <span class=\"meta-sep\">|</span> <a href=\"%3$s\" title="
+"\"Permalink to this comment\">Permalink</a>"
+msgstr ""
+
+#: theme-parts/look.php:20
+msgid ""
+"\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</"
+"span>\n"
+msgstr ""
+
+#: theme-parts/look.php:26
+msgid "Reply"
+msgstr ""
+
+#: theme-parts/look.php:26
+msgid "Log in to reply."
+msgstr ""
+
+#: theme-parts/settings.php:8
+#, php-format
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: theme-parts/settings.php:11
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation.</span>\\n"
+msgstr ""

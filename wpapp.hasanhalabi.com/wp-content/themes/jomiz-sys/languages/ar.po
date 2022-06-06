@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JoMiz System\n"
+"POT-Creation-Date: 2020-08-08 01:55+0000\n"
+"PO-Revision-Date: 2022-01-18 17:03+0000\n"
+"Last-Translator: ليث الجبالي\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: themes/jomiz-sys\n"
+"X-Poedit-SearchPath-1: plugins/jomiz-plugins-manager\n"
+"X-Poedit-SearchPath-2: plugins/jomiz-attachments\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.7; wp-5.8.3"
+
+#: single.php:9 header.php:69 index.php:14 header-topmenu.php:54
+#: header-topmenu.php:54
+msgid "Home"
+msgstr "الرئيسية"
+
+#: single.php:14 header.php:75 index.php:10 index.php:17 header-topmenu.php:60
+#: header-topmenu.php:60 pages-core/page-users-groups.php:33
+#: pages-core/page-users.php:40
+msgid "Help"
+msgstr "المساعدة"
+
+#: page.php:49
+msgid "Pending Tasks"
+msgstr "المهام"
+
+#: page.php:55
+msgid "Search for..."
+msgstr "البحث عن..."
+
+#: page.php:61
+msgid "Empty"
+msgstr "تفريغ البحث"
+
+#: page.php:81
+msgid "on"
+msgstr "بتاريخ"
+
+#: page.php:92
+msgid "More..."
+msgstr "التفاصيل"
+
+#: page.php:100
+msgid "No Pending Tasks!"
+msgstr "لا يوجد مهام عالقة!"
+
+#: header.php:62
+msgid "Search within system..."
+msgstr ""
+
+#: header.php:72 header-topmenu.php:57 header-topmenu.php:57
+#: pages-core/page-users-groups-edit.php:179
+#: pages-core/page-system-reports.php:20 pages-core/page-system-reports.php:23
+#: pages-core/page-system-reports.php:36 pages-core/page-system-reports.php:105
+msgid "Reports"
+msgstr "التقارير"
+
+#: header.php:78 header-topmenu.php:49 header-topmenu.php:49
+#: header-topmenu.php:66 header-topmenu.php:66
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#. Name of the template
+msgid "fuvm"
+msgstr ""
+
+#: header-rpt-print.php:117 header-rpt-print-landscape.php:112
+#: header-rpt-empty.php:78 header-rpt.php:103
+msgid "Please Wait! It could take some time to process the report data."
+msgstr ""
+
+#: 500.php:6
+msgid "Internal Server Error"
+msgstr ""
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"Sorry, but the page you are looking for has note been found. Try checking "
+"the URL for error, then hit the refresh button on your browser or try found "
+"something else in our app."
+msgstr ""
+
+#. Name of the template
+msgid "JoMiz Users Group (Edit)"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:29
+#: pages-core/page-users-groups-edit.php:273
+#: pages-core/page-users-groups.php:101
+msgid "Users Group"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:33 pages-core/page-users-groups.php:21
+#: pages-core/page-users-groups.php:24 pages-core/page-users-groups.php:167
+#: temps/lang-terms.php:3
+msgid "Users Groups"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:46 pages-core/page-users.php:361
+msgid "Save"
+msgstr "حفظ"
+
+#: pages-core/page-users-groups-edit.php:49
+msgid "Save Options"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:53
+#: pages-core/page-users-groups-edit.php:55 pages-core/page-users.php:360
+msgid "Save &amp; New"
+msgstr "حفظ واضافة جديد"
+
+#: pages-core/page-users-groups-edit.php:59
+#: pages-core/page-users-groups-edit.php:61
+msgid "Save &amp; Close"
+msgstr "حفظ واغلاق النموذج"
+
+#: pages-core/page-users-groups-edit.php:69 pages-core/page-users.php:364
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: pages-core/page-users-groups-edit.php:70
+#: pages-core/page-users-groups.php:118 pages-core/page-users.php:142
+msgid "Delete"
+msgstr "حذف"
+
+#: pages-core/page-users-groups-edit.php:84 pages-core/page-users.php:319
+msgid "Error found in the form!"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:87
+msgid "Group Name is required"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:90
+msgid "Members are required"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:99 pages-core/page-users.php:204
+msgid "Basic Information"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:112
+#: pages-core/page-users-groups.php:59 pages-core/page-users-groups.php:61
+msgid "Group Name"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:120
+msgid "Members"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:122
+msgid "Chose Members..."
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:131
+msgid "Managers"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:133
+msgid "Chose Managers..."
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:192
+#: business/html.templates.class.php:131
+msgid "Dashboard"
+msgstr "الرئيسية"
+
+#: pages-core/page-users-groups-edit.php:208
+#: business/html.templates.class.php:57 business/html.templates.class.php:117
+msgid "Owner Information"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:223
+#: business/html.templates.class.php:58 business/html.templates.class.php:118
+msgid "File Owner"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:231
+#: business/html.templates.class.php:59 business/html.templates.class.php:119
+msgid "Created On"
+msgstr ""
+
+#: pages-core/page-users-groups-edit.php:239
+#: business/html.templates.class.php:61 business/html.templates.class.php:121
+msgid "Modified On"
+msgstr ""
+
+#. Name of the template
+msgid "JoMiz Users Group"
+msgstr ""
+
+#: pages-core/page-users-groups.php:31 pages-core/page-users.php:35
+#: business/html.templates.class.php:143
+msgid "Add"
+msgstr "اضافة"
+
+#: pages-core/page-users-groups.php:32 pages-core/page-users.php:36
+msgid "Delete Selected"
+msgstr ""
+
+#: pages-core/page-users-groups.php:44 pages-core/page-users.php:53
+msgid "Filter"
+msgstr "البحث"
+
+#: pages-core/page-users-groups.php:66 pages-core/page-users.php:75
+msgid "text-right"
+msgstr ""
+
+#: pages-core/page-users-groups.php:69 pages-core/page-users.php:78
+msgid "Search"
+msgstr "ابحث"
+
+#: pages-core/page-users-groups.php:72 pages-core/page-users.php:81
+msgid "Reset"
+msgstr "إلغاء"
+
+#: pages-core/page-users-groups.php:90
+msgid "User Groups"
+msgstr ""
+
+#: pages-core/page-users-groups.php:116 pages-core/page-users.php:140
+msgid "View"
+msgstr ""
+
+#: pages-core/page-users-groups.php:117 pages-core/page-users.php:141
+#: business/html.templates.class.php:142
+msgid "Edit"
+msgstr "تعديل"
+
+#: pages-core/page-users-groups.php:124 pages-core/page-system-reports.php:77
+#: pages-core/page-users.php:148
+msgid "<b>Warning!</b> No Data Available!"
+msgstr ""
+
+#: pages-core/page-users-groups.php:133
+msgid "Number of Groups"
+msgstr ""
+
+#. Name of the template
+msgid "JoMiz API"
+msgstr ""
+
+#. Name of the template
+msgid "Login Page"
+msgstr ""
+
+#: pages-core/login.php:51
+msgid "Login Information is not correct!"
+msgstr ""
+
+#: pages-core/login.php:52
+msgid "Please try again or call the system administrator."
+msgstr ""
+
+#. Name of the template
+msgid "Logout page"
+msgstr ""
+
+#. Name of the template
+msgid "JoMiz Reports"
+msgstr ""
+
+#: pages-core/page-system-reports.php:46
+msgid "Module"
+msgstr ""
+
+#: pages-core/page-system-reports.php:49
+msgid "Report"
+msgstr "التقرير"
+
+#: pages-core/page-system-reports.php:86
+msgid "Number of Reports"
+msgstr ""
+
+#. Name of the template
+msgid "Upload File"
+msgstr ""
+
+#. Name of the template
+msgid "File Download"
+msgstr ""
+
+#. Name of the template
+msgid "JoMiz System Users"
+msgstr ""
+
+#: pages-core/page-users.php:25 pages-core/page-users.php:28
+#: pages-core/page-users.php:99 pages-core/page-users.php:381
+msgid "System Users"
+msgstr ""
+
+#: pages-core/page-users.php:39
+msgid "Export To Excel"
+msgstr ""
+
+#: pages-core/page-users.php:68
+msgid "User information"
+msgstr ""
+
+#: pages-core/page-users.php:70
+msgid "UserInfo"
+msgstr ""
+
+#: pages-core/page-users.php:110
+msgid "Name"
+msgstr ""
+
+#: pages-core/page-users.php:113 pages-core/page-users.php:284
+#: pages-core/page-users.php:286
+msgid "User Name"
+msgstr ""
+
+#: pages-core/page-users.php:117 pages-core/page-users.php:238
+#: pages-core/page-users.php:240
+msgid "Email"
+msgstr ""
+
+#: pages-core/page-users.php:120 pages-core/page-users.php:230
+#: pages-core/page-users.php:232
+msgid "Job Title"
+msgstr ""
+
+#: pages-core/page-users.php:157
+msgid "Number of Users"
+msgstr ""
+
+#: pages-core/page-users.php:195
+msgid "Edit/Rigester User"
+msgstr ""
+
+#: pages-core/page-users.php:212 pages-core/page-users.php:214
+msgid "First Name"
+msgstr ""
+
+#: pages-core/page-users.php:220 pages-core/page-users.php:222
+msgid "Last Name"
+msgstr ""
+
+#: pages-core/page-users.php:248
+msgid "Security Information"
+msgstr ""
+
+#: pages-core/page-users.php:257 pages-core/page-users.php:259
+msgid "Password"
+msgstr ""
+
+#: pages-core/page-users.php:265 pages-core/page-users.php:267
+msgid "Password Confirm"
+msgstr ""
+
+#: pages-core/page-users.php:274
+msgid "Login Information"
+msgstr ""
+
+#: pages-core/page-users.php:292
+msgid "Is Admin"
+msgstr ""
+
+#: pages-core/page-users.php:302
+msgid "Disable This User"
+msgstr ""
+
+#: pages-core/page-users.php:322 pages-core/page-users.php:325
+msgid "Email is required"
+msgstr ""
+
+#: pages-core/page-users.php:328
+msgid "This e-mail already exists"
+msgstr ""
+
+#: pages-core/page-users.php:331
+msgid "JobTitle is required"
+msgstr ""
+
+#: pages-core/page-users.php:334
+msgid "Password is required"
+msgstr ""
+
+#: pages-core/page-users.php:337
+msgid "Connfirm your password is required"
+msgstr ""
+
+#: pages-core/page-users.php:340
+msgid "Your password did not match"
+msgstr ""
+
+#: pages-core/page-users.php:343
+msgid "please insert user name "
+msgstr ""
+
+#: pages-core/page-users.php:346
+msgid "This user name already exists"
+msgstr ""
+
+#: temps/lang-terms.php:2
+msgid "Settings"
+msgstr ""
+
+#: business/html.templates.class.php:60 business/html.templates.class.php:120
+msgid "Modified By"
+msgstr ""
+
+#: languages/dictionary.php:4
+msgid "Print"
+msgstr "طباعة"
+
+#: languages/dictionary.php:5
+msgid "add"
+msgstr "اضافة"
+
+#: languages/dictionary.php:6
+msgid "edit"
+msgstr "تعديل"
+
+#: languages/dictionary.php:7
+msgid "delete"
+msgstr ""
+
+#: languages/dictionary.php:8
+msgid "menu-item"
+msgstr ""
+
+#: languages/dictionary.php:9
+msgid "view-all-data"
+msgstr ""
+
+#: languages/dictionary.php:10
+msgid "view-data-of-team"
+msgstr ""
+
+#: languages/dictionary.php:11
+msgid "Details"
+msgstr "التفاصيل"
+
+#. Name of the theme
+msgid "JoMiz System"
+msgstr ""
+
+#. Description of the theme
+msgid "WordPress theme for JoMiz Systems."
+msgstr ""
+
+#. Author of the theme
+msgid "JoMiz"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.jomiz.net"
+msgstr ""

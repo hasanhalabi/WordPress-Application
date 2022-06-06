@@ -1,0 +1,21 @@
+/*
+Theme Name: JoMiz System
+Theme URI:
+Description: WordPress theme for JoMiz Systems.
+Author: JoMiz
+Author URI: http://www.jomiz.net
+Version: v1.1.15
+GitHub Theme URI: https://github.com/hasanhalabi/jomiz-sys
+GitHub Branch: master
+
+*/
+
+
+/*** GLOBAL : GENERAL STYLE DEFAULTS ***/
+
+@import "styles/css/bootstrap.min.css";
+@import "styles/font-awesome/css/font-awesome.css";
+@import "styles/css/animate.css";
+@import "styles/css/style.css";
+@import "styles/css/print.css";
+@import "styles/css/jomiz.css?2017.07.08";
