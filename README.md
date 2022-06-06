@@ -1,4 +1,4 @@
-# WordPress-Application
+# WordPress Application Platform
 
 Hi all. 
 
